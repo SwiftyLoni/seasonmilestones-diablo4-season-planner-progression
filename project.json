@@ -1,0 +1,46 @@
+{
+  "id": 54,
+  "category": "game-companion",
+  "slug": "diablo4-season-planner",
+  "target": "Diablo IV",
+  "appid": "2344520",
+  "summaryRu": "Планировщик сезонных целей и ручных сравнений сборок без изменения учетной записи.",
+  "features": [
+    "Season milestone checklist",
+    "Build requirement notes",
+    "Resource shopping sheets"
+  ],
+  "title": "SeasonMilestones — Diablo IV — Progression",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "SeasonMilestones",
+  "repositoryName": "seasonmilestones-diablo4-season-planner-progression",
+  "githubTopics": [
+    "diablo-iv",
+    "season-planning",
+    "build-notes",
+    "resource-checklist",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "progression"
+}
